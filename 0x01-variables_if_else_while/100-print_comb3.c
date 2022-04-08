@@ -7,17 +7,17 @@
  */
 int main(void)
 {
-	int n = 48;
+	int l = 48;
 	int m = 49;
 	int c = 49;
 
-	while (n < 58)
+	while (l < 58)
 	{
 	while (m < 58)
 	{
-	putchar(n);
+	putchar(l);
 	putchar(m);
-	if ((n != 56) || (m != 57))
+	if ((l != 56) || (m != 57))
 	{
 	putchar(44);
 	putchar(32);
@@ -26,7 +26,7 @@ int main(void)
 	}
 	c++;
 	m = c;
-	n++;
+	l++;
 	}
 	putchar('\n');
 	return (0);
