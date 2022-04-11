@@ -16,9 +16,7 @@ int main(void)
 	int d = 50;
 	int b = 50;
 	while (n < 58)
-	
-	{
-	while (m < 58)
+	{ while (m < 58)
 	{
 	while (w < 58)
 	{
