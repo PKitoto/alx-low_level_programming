@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * main - _putchar, followed bya new linet
+ * main - _putchar, followed by a new line
  *
  * return: Always 0
  */
